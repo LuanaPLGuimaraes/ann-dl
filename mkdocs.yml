@@ -1,8 +1,8 @@
 site_name: Redes Neurais e Deep Learning
 site_author: Guimarães, L.
-site_url: https://luanaplguimaraes.github.io/RedesNeurais_DeepLearning/
-repo_url: https://github.com/LuanaPLGuimaraes/RedesNeurais_DeepLearning
-repo_name: LuanaPLGuimaraes/RedesNeurais_DeepLearning
+site_url: https://luanaplguimaraes.github.io/ann-dl/
+repo_url: https://github.com/LuanaPLGuimaraes/ann-dl
+repo_name: LuanaPLGuimaraes/ann-dl
 
 theme:
   name: material
