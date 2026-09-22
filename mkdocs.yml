@@ -142,3 +142,4 @@ extra_javascript:
 nav:
   - Home: index.md
   - APS 1 - Data: exercises/data/index.md
+  - APS 2 - Perceptron: exercises/perceptron/index.md

@@ -7,3 +7,4 @@ Relatórios individuais das APS da eletiva Redes Neurais e Deep Learning (2026.2
 ## Entregas
 
 - [APS 1 - Data](exercises/data/index.md)
+- [APS 2 - Perceptron](exercises/perceptron/index.md)
