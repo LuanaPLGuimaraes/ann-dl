@@ -11,6 +11,8 @@ ai_use: "Claude foi usado para me guiar entre conceitos e para me ajudar a organ
 !!! info "Método de resolução"
     O desenvolvimento deste exercício foi separado em dois arquivos: este relatório (`index.md`) e o `code/perceptron.py`, onde está o passo a passo de todas as implementações e experimentos.
 
+## **Ex 1: Dados Separáveis**
+
 ### A) Gerando os Dados
 Foram geradas duas classes de pontos 2D, 1000 amostras por classe, a partir de distribuições normais multivariadas:
 
