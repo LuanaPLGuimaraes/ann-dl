@@ -8,3 +8,4 @@ Relatórios individuais das APS da eletiva Redes Neurais e Deep Learning (2026.2
 
 - [APS 1 - Data](exercises/data/index.md)
 - [APS 2 - Perceptron](exercises/perceptron/index.md)
+- [APS 3 - MLP](exercises/mlp/index.md)
