@@ -144,3 +144,4 @@ nav:
   - APS 1 - Data: exercises/data/index.md
   - APS 2 - Perceptron: exercises/perceptron/index.md
   - APS 3 - MLP: exercises/mlp/index.md
+  - APS 4 - VAE: exercises/vae/index.md
